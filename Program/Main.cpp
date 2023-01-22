@@ -1,13 +1,20 @@
 // Write the name of the developers and the group number here
-//---------
-//--------
+// Member 1: Sudhan Dahake
+// Member 2: Owen Covach (Team Leader)
+// Member 3: Hangsihak Sin
+// Group Number: 10
+// -------------------------------------------------------------
+// PROG71020 - Winter 2023
+// Assignment/Lab 01 - January 21/2021
+//--------------------------------------------------------------
+
 
 #include <iostream>
 
-#include "CoordinateStruct.h"
-#include "max.h"
-#include "swap.h"
-#include "multiply.h"
+#include "CoordinateStruct.h"							// Header File for CoordinateStruct Library
+#include "max.h"										// Header File for max Library
+#include "swap.h"										// Header File for swap Library
+#include "multiply.h"									// Header File for multiply Library
 
 #define ARRAY_LENGTH 5
 using namespace std;
