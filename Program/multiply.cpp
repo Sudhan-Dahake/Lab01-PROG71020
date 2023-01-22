@@ -8,7 +8,6 @@
 //--------------------------------------------------------------
 
 // Implementation of multiply library
-// Used to test Function Overload of max functions
 
 #include "multiply.h"						// Header file for multiply library
 
