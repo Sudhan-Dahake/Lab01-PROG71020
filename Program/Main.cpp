@@ -81,7 +81,10 @@ int main() {
 
 	// b.Can you add another third function that has the same name and has two arguments : multiply(int, int)
 	// and call it as follows multiply(2, 3) ? Why or why not? Add your answer as a comment in your code. (1 pt.).
-	// .......
+	// 
+	// no you cant add this third function because it will interfere with the first multiply function that we have,
+	// it will have a function overload therefore not allowing the program to run properly. the first functiion has a default
+	// value so it only requires 2 parameters so thats why the overload happens.
 	// .......
 	return 0;
 }
